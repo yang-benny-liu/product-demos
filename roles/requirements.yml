@@ -4,3 +4,4 @@
 - src: linux-system-roles.firewall
 - src: linux-system-roles.timesync
 - src: RedHatInsights.insights-client
+- src: linux-system-roles.selinux
