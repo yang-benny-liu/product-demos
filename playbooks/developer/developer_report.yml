@@ -1,6 +1,6 @@
 ---
 - name: grab linux facts
-  hosts: web
+  hosts: node1
   gather_facts: true
 
 - name: build developer report
